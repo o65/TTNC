@@ -8,7 +8,7 @@ import os, requests, random, threading
 from colorama import init, Fore
 init()
 
-os.system("title TTNC - Developed by Github.com/cliphd")
+os.system("title TTNC ^| by Cliphd")
 
 SSID = "6753b5a64a0a0761bf0b8bbbb271405c"
 Webhook = "" # WebhookURL Here
