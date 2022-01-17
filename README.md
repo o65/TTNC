@@ -5,6 +5,8 @@ TikTok 4L and 4C checker that doesn't count banned usernames as available. Once 
 ## Preview
 
 ![TTNM_DEMO](https://user-images.githubusercontent.com/80993711/149687241-36d15d1d-01ad-42c9-9e16-22960d2fc0ea.gif)
+![image](https://user-images.githubusercontent.com/80993711/149689533-64c3e475-4f33-46dc-92f5-8dec2aa6b6de.png)
+
 
 ## Setting it up
 
