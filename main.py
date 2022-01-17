@@ -85,12 +85,12 @@ if __name__ == "__main__":
                     {Fore.GREEN}[{Fore.RESET}2{Fore.GREEN}]{Fore.RESET} Exit
 
 """)
-    option = input(f'             {Fore.GREEN}root{Fore.RESET}@{Fore.MAGENTA}TTNC{Fore.RESET}: ')
-    if option == "1":
+    option = int(input(f'             {Fore.GREEN}root{Fore.RESET}@{Fore.MAGENTA}TTNC{Fore.RESET}: '))
+    if option == 1:
         for i in range(3):
             t = threading.Thread(target=Check)
             t.start()
-    elif option == "2":
+    elif option == 2:
         exit()
     else:
         print(f"{Fore.RED}[{Fore.RESET}ERROR{Fore.RED}]{Fore.RESET} Invaild option.")
